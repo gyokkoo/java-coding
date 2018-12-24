@@ -18,6 +18,7 @@
 # Gradle
 .ideagradle.xml
 .idealibraries
+.idea
 
 # CMake
 cmake-build-debug
